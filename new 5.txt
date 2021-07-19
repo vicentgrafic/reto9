@@ -1,0 +1,183 @@
+########################################################################################
+########################################################################################
+https://restcountries.eu/rest/v2/alpha?codes=AF;DF;CF
+[
+    {
+        "name": "Afghanistan",
+        "topLevelDomain": [
+            ".af"
+        ],
+        "alpha2Code": "AF",
+        "alpha3Code": "AFG",
+        "callingCodes": [
+            "93"
+        ],
+        "capital": "Kabul",
+        "altSpellings": [
+            "AF",
+            "Afġānistān"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 27657145,
+        "latlng": [
+            33.0,
+            65.0
+        ],
+        "demonym": "Afghan",
+        "area": 652230.0,
+        "gini": 27.8,
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "borders": [
+            "IRN",
+            "PAK",
+            "TKM",
+            "UZB",
+            "TJK",
+            "CHN"
+        ],
+        "nativeName": "افغانستان",
+        "numericCode": "004",
+        "currencies": [
+            {
+                "code": "AFN",
+                "name": "Afghan afghani",
+                "symbol": "؋"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ps",
+                "iso639_2": "pus",
+                "name": "Pashto",
+                "nativeName": "پښتو"
+            },
+            {
+                "iso639_1": "uz",
+                "iso639_2": "uzb",
+                "name": "Uzbek",
+                "nativeName": "Oʻzbek"
+            },
+            {
+                "iso639_1": "tk",
+                "iso639_2": "tuk",
+                "name": "Turkmen",
+                "nativeName": "Türkmen"
+            }
+        ],
+        "translations": {
+            "de": "Afghanistan",
+            "es": "Afganistán",
+            "fr": "Afghanistan",
+            "ja": "アフガニスタン",
+            "it": "Afghanistan",
+            "br": "Afeganistão",
+            "pt": "Afeganistão",
+            "nl": "Afghanistan",
+            "hr": "Afganistan",
+            "fa": "افغانستان"
+        },
+        "flag": "https://restcountries.eu/data/afg.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "AFG"
+    },
+    null,
+    {
+        "name": "Central African Republic",
+        "topLevelDomain": [
+            ".cf"
+        ],
+        "alpha2Code": "CF",
+        "alpha3Code": "CAF",
+        "callingCodes": [
+            "236"
+        ],
+        "capital": "Bangui",
+        "altSpellings": [
+            "CF",
+            "Central African Republic",
+            "République centrafricaine"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "population": 4998000,
+        "latlng": [
+            7.0,
+            21.0
+        ],
+        "demonym": "Central African",
+        "area": 622984.0,
+        "gini": 56.3,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "CMR",
+            "TCD",
+            "COD",
+            "COG",
+            "SSD",
+            "SDN"
+        ],
+        "nativeName": "Ködörösêse tî Bêafrîka",
+        "numericCode": "140",
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "sg",
+                "iso639_2": "sag",
+                "name": "Sango",
+                "nativeName": "yângâ tî sängö"
+            }
+        ],
+        "translations": {
+            "de": "Zentralafrikanische Republik",
+            "es": "República Centroafricana",
+            "fr": "République centrafricaine",
+            "ja": "中央アフリカ共和国",
+            "it": "Repubblica Centrafricana",
+            "br": "República Centro-Africana",
+            "pt": "República Centro-Africana",
+            "nl": "Centraal-Afrikaanse Republiek",
+            "hr": "Srednjoafrička Republika",
+            "fa": "جمهوری آفریقای مرکزی"
+        },
+        "flag": "https://restcountries.eu/data/caf.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "CAF"
+    }
+]
